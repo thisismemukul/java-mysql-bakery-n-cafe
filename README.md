@@ -6,6 +6,7 @@
 <img src="https://github.com/thisismemukul/java-mysql-bakery-n-cafe/blob/main/demo.gif" alt="java-mysql-bakery-n-cafe showcase gif" title="java-mysql-bakery-n-cafe Demo" width="500"/>
 </p>
 
+- [Setup](https://github.com/thisismemukul/java-mysql-bakery-n-cafe/blob/main/setup) - Download Windows Setup.
 # <a name='installation-guide'>Installation Guide</a>
 
 This project requires the following tools:
