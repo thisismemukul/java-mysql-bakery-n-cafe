@@ -30,9 +30,9 @@ cd java-mysql-bakery-n-cafe
 
 # License
 
-The Hackathon Starter Kit is open source software [licensed as MIT][mlh-license].
+The Java MySQL bakery & cafe is open source software [licensed as MIT][mlh-license].
 
-[mlh-license]: https://github.com/thisismemukul/API-s/blob/main/LICENSE.md
+[mlh-license]: https://github.com/thisismemukul/java-mysql-bakery-n-cafe/blob/main/LICENSE.md
 
 ============================================================================
 
